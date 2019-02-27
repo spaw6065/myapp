@@ -34,7 +34,7 @@ public class demotestclass {
 	Assert.assertEquals(2, b/a);	
 	}
 	
-	@Test
+	@Test2
 	public void multiply() {
 		int a =10,b=20;
 		System.out.println("multiply");
